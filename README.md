@@ -1,4 +1,5 @@
 # Automated Protein–Protein Docking with Snakemake and LightDock
+**Authors:** Raúl Sánchez Venegas and Jovana Arsenov
 
 **FHNW · MSc Life Sciences – Data Science · Computer and Software Architecture · Exercise 4**
 
