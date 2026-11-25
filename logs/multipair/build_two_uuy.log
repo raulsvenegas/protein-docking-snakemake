@@ -1,0 +1,9 @@
+[lgd_generate_conformations] INFO: Reading ../lightdock_receptor.pdb receptor PDB file...
+[lgd_generate_conformations] INFO: 1628 atoms, 223 residues read.
+[lgd_generate_conformations] INFO: Reading ../lightdock_ligand.pdb ligand PDB file...
+[lgd_generate_conformations] INFO: 415 atoms, 55 residues read.
+[lgd_generate_conformations] INFO: Read 10 coordinate lines
+[lgd_generate_conformations] INFO: Generated 10 conformations
+Receptor (chain A): 1628 atoms; ligand (chain B): 415 atoms
+Best pose: swarm=0, pose=7, score=4.83015167
+Output: results/two_uuy/automated/best_complex_chainsAB.pdb

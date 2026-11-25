@@ -1,0 +1,40 @@
+[lgd_run] INFO: simulation parameters saved to lightdock.info
+[lgd_setup] INFO: Ignoring OXT atoms
+[lgd_setup] INFO: Ignoring Hydrogen atoms
+[lgd_setup] INFO: Reading structure from lightdock_receptor.pdb PDB file...
+[lgd_setup] INFO: 1137 atoms, 150 residues read.
+[lgd_setup] INFO: Ignoring OXT atoms
+[lgd_setup] INFO: Ignoring Hydrogen atoms
+[lgd_setup] INFO: Reading structure from lightdock_ligand.pdb PDB file...
+[lgd_setup] INFO: 639 atoms, 85 residues read.
+[lgd_run] INFO: Loading scoring function...
+[lgd_run] INFO: Using DFIRE scoring function
+[lgd_run] INFO: Done.
+[kraken] INFO: Kraken has 1 tentacles (cpu cores)
+[kraken] INFO: Tentacle ready with 2 tasks
+[kraken] INFO: 2 ships ready to be smashed
+[lgd_run] INFO: Monster spotted
+[kraken] INFO: Release the Kraken!
+[0] step 1
+[0] step 2
+[0] step 3
+[0] step 4
+[0] step 5
+[0] step 6
+[0] step 7
+[0] step 8
+[0] step 9
+[0] step 10
+[1] step 1
+[1] step 2
+[1] step 3
+[1] step 4
+[1] step 5
+[1] step 6
+[1] step 7
+[1] step 8
+[1] step 9
+[1] step 10
+[kraken] INFO: folding tentacle Tentacle-1
+[kraken] INFO: 2 ships destroyed
+[lgd_run] INFO: Finished.

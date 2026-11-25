@@ -1,0 +1,13 @@
+Docking score collection completed!
+Input files: 60
+Total poses: 600
+HPr models: 30
+All scores: results/e2a_hpr/ensemble/docking_scores.csv
+Best scores: results/e2a_hpr/ensemble/best_scores_by_model.csv
+
+Top 5 scoring poses:
+Rank 1: Model 9, Swarm 0, Pose 5, Score -4.1305
+Rank 2: Model 20, Swarm 0, Pose 7, Score -5.8843
+Rank 3: Model 26, Swarm 0, Pose 7, Score -6.1003
+Rank 4: Model 9, Swarm 0, Pose 7, Score -6.4437
+Rank 5: Model 5, Swarm 0, Pose 7, Score -7.1186

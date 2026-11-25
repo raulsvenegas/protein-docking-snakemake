@@ -1,0 +1,31 @@
+[lgd_setup] INFO: Ignoring OXT atoms
+[lgd_setup] INFO: Ignoring Hydrogen atoms
+[lgd_setup] INFO: Reading structure from receptor.pdb PDB file...
+[lgd_setup] INFO: 1137 atoms, 150 residues read.
+[lgd_setup] INFO: Ignoring OXT atoms
+[lgd_setup] INFO: Ignoring Hydrogen atoms
+[lgd_setup] INFO: Reading structure from ligand.pdb PDB file...
+[lgd_setup] INFO: 639 atoms, 85 residues read.
+[lgd_setup] INFO: Calculating reference points for receptor receptor.pdb...
+[lgd_setup] INFO: Reference points for receptor found, skipping
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: Calculating reference points for ligand ligand.pdb...
+[lgd_setup] INFO: Reference points for ligand found, skipping
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: Saving processed structure to PDB file...
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: Saving processed structure to PDB file...
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: Calculating starting positions...
+[lgd_setup] INFO:   * Surface density: TotalSASA/50.00
+[lgd_setup] INFO:   * Swarm radius: 10.00 Å
+[lgd_setup] INFO:   * 180° flip of 50% of starting poses: False
+[lgd_setup] INFO:   * Ligand Max Diameter: 39.44 Å
+[lgd_setup] INFO:   * Surface distance: 9.86 Å
+[lgd_setup] INFO: Swarms after incompatible filter: 194
+[lgd_setup] INFO: Swarms after interior points filter: 8
+[lgd_setup] INFO: Generated 2 positions files
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: Preparing environment
+[lgd_setup] INFO: Done.
+[lgd_setup] INFO: LightDock setup OK

@@ -1,0 +1,31 @@
+
+# Local environments and caches
+.snakemake/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+.env.*
+
+# Backups and drafts
+*.bak
+*.backup
+*.backup.md
+*.before_*
+*.pre_final_*
+*~
+/{output}
+
+# Previous submission packages
+*.zip
+/FHNW_Exercise4_*
+
+# Obsolete experiments
+/results/e2a_hpr/pilot/
+/data/raw/1N8Z.pdb
+
+# Operating system files
+.DS_Store
+Thumbs.db
+/logs/lightdock_build.log

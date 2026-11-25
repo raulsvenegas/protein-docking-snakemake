@@ -1,0 +1,5 @@
+Best docking pose: model=9, swarm=0, pose=5
+Score: -4.13045687
+Receptor atoms: 1137
+Ligand atoms: 639
+Output: results/e2a_hpr/ensemble/best_complex_chainsAB.pdb

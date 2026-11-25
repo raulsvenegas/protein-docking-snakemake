@@ -1,0 +1,4 @@
+SUCCESS: PyMOL visualization generated
+Receptor atoms: 1137
+Ligand atoms: 639
+Output: ./results/e2a_hpr/ensemble/best_complex_automated.png

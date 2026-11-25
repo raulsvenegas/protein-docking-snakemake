@@ -1,0 +1,11 @@
+
+# Conda environment for protein structure repair
+# FHNW Exercise 4 - Protein-Protein Docking Workflow
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pdbfixer
+  - openmm
